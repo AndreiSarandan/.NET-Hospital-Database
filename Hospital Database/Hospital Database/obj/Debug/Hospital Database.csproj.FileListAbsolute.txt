@@ -1,0 +1,16 @@
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\bin\Debug\Hospital Database.mdf
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\bin\Debug\Hospital Database_log.ldf
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\bin\Debug\Hospital Database.exe.config
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\bin\Debug\Hospital Database.exe
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\bin\Debug\Hospital Database.pdb
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\obj\Debug\Hospital Database.csproj.AssemblyReference.cache
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\obj\Debug\Hospital Database.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\obj\Debug\Hospital_Database.AddPacientForm.resources
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\obj\Debug\Hospital_Database.AddRadiografiiForm.resources
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\obj\Debug\Hospital_Database.Form1.resources
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\obj\Debug\Hospital_Database.MainInterface.resources
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\obj\Debug\Hospital_Database.Properties.Resources.resources
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\obj\Debug\Hospital Database.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\obj\Debug\Hospital Database.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\obj\Debug\Hospital Database.exe
+C:\Users\Andrei\source\repos\Hospital Database\Hospital Database\obj\Debug\Hospital Database.pdb
